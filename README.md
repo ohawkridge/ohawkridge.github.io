@@ -17,15 +17,13 @@ From the database, the program builds a set of static HTML files for browsing th
 "A powerful yet simple system for .."
 An exam revision website build
 
-
-
-[Link to repo](https://#)
+[Link to repo](https://#)🔗
 
 #### Google Foobar
 
 A few years ago, I was invited to take part in a series of coding challenges as part of Google's 'foobar' recruitment program. This repository contains my Python code for the challenges I completed.
 
-[Link to repo](https://github.com/ohawkridge/foobar)🔗
+[Link to repo](https://github.com/ohawkridge/foobar "Google foobar")🔗
 
 ---
 
@@ -34,7 +32,7 @@ A few years ago, I was invited to take part in a series of coding challenges as 
 #### IBM Data Science Professional Certificate, 2024
 Coursera, Online
 
-[Link to notebooks](https://github.com/ohawkridge/jupyter-notebooks)🔗
+[Link to notebooks](https://github.com/ohawkridge/jupyter-notebooks "Data Science course notebooks")🔗
 
 ---
 
@@ -44,4 +42,4 @@ Coursera, Online
 
 A presentation on the impact of AI in teaching. Given at The Chauncy School Conference, March 2024.
 
-[Link to slides](https://docs.google.com/presentation/d/1B-EE6mvE15-82voYKzckECrpH1wTnWeq/edit?usp=share_link&ouid=103652165818296102509&rtpof=true&sd=true)🔗
+[Link to slides](https://docs.google.com/presentation/d/1B-EE6mvE15-82voYKzckECrpH1wTnWeq/edit?usp=share_link&ouid=103652165818296102509&rtpof=true&sd=true "The Robots Are Coming!")🔗
