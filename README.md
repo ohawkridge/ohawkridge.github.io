@@ -10,14 +10,18 @@ A project to learn [GO](https://go.dev). This program scrapes two popular teachi
 
 From the database, the program builds a set of static HTML files for browsing the jobs in different ways (e.g., by subject, by location etc.)
 
-[Link to repo](https://github.com/ohawkridge/go-scraper)🔗 [Live demo](https://#)⚡️
+[Link to repo](https://github.com/ohawkridge/go-scraper)🔗 Live demo (coming soon)⚡️
 
-#### Examgap
+#### Examgap (2017-2022)
 
-"A powerful yet simple system for .."
-An exam revision website build
+"A powerful yet simple system for practising _written answer_ exam questions".
 
-[Link to repo](https://#)🔗
+|Frontend|Vue|
+||Nuxt|
+||Vuetify|
+|Backend|Fauna|
+
+[Link to repo](https://github.com/ohawkridge/examgap)🔗
 
 #### Google Foobar
 
