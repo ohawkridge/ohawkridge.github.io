@@ -13,6 +13,7 @@ From the database, the program builds a set of static HTML files for browsing th
 [Link to repo](https://github.com/ohawkridge/go-scraper)🔗 Live demo (coming soon)⚡️
 
 #### Examgap—_A powerful yet simple system for practising written answer exam questions_
+![Examgap logo](https://github.com/ohawkridge/ohawkridge.github.io/blob/14fe67d160d5480e89ed4f71078ae2a9028ff2af/Examgap%20logo%20v7.png)
 
 Commercial website operated (2017-2022).
 
