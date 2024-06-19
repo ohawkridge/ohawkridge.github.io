@@ -16,10 +16,11 @@ From the database, the program builds a set of static HTML files for browsing th
 
 "A powerful yet simple system for practising _written answer_ exam questions".
 
-|Frontend|Vue|
-||Nuxt|
-||Vuetify|
-|Backend|Fauna|
+|Frontend|Backend|
+|--------|-------|
+|Vue     |Fauna  |
+|Vuetify |Netlify|
+|Nuxt    |       |
 
 [Link to repo](https://github.com/ohawkridge/examgap)🔗
 
