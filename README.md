@@ -31,6 +31,12 @@ A few years ago, I was invited to take part in a series of coding challenges as 
 
 [Link to repo](https://github.com/ohawkridge/foobar "Google foobar")🔗
 
+#### Project Euler (Haskell)
+
+My attempt at the Project Euler challenges using functional programming in Haskell.
+
+[Link to repo](https://github.com/ohawkridge/pe-haskell "Project Euler (Haskell)")🔗
+
 ---
 
 ### Courses
