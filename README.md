@@ -1,7 +1,5 @@
 ## Data Science Portfolio — Owen Hawkridge
 
----
-
 ### Projects
 
 #### GO Web Scraper
